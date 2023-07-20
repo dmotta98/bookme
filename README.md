@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
